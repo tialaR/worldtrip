@@ -1,5 +1,5 @@
 
-# worldtrip
+# worldtrip 🌎
 ### 👩🏾‍🚀 Journey Ignite Rocketseat Module 04 Challenge 01 - Create an web application with Chakra UI, ReactJS and Next.js
 
 <p>
