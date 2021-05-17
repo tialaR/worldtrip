@@ -8,10 +8,10 @@ In it I had two main objectives.
 The first was to develop the entire interface based on the Chakra UI. The second was to work on the responsive layout of the application.
 </p>
 
-![](gif1.gif) _&nbsp;&nbsp;_ ![](gif2.gif) 
-![](video.mp4)
+### Video:
+![](video-gif.gif) 
 </br>
-
+### Images:
 ![](img1.png)
 
 ![](img2.png) 
